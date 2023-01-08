@@ -1,7 +1,7 @@
 
 # learning-react-router
 
-It is a simple contact app make it with React. 
+It is a simple contact app make it with Vite + React. 
 
 
 To achive that, I followed this tutorial https://reactrouter.com/en/6.6.1/start/tutorial 
